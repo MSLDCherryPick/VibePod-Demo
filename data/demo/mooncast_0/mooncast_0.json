@@ -3,13 +3,11 @@
     "prompts": {
         "0": {
             "speaker": "0",
-            "text": "Okay. I'm starting to see how this multi-headed approach could lead to some pretty impressive results.",
-            "audio_path": "/mnt/conversationhubhot/yaoyaochang/speech/data/azure_data/mooncast_eval/prompt/en_spk1.wav"
+            "text": "Okay. I'm starting to see how this multi-headed approach could lead to some pretty impressive results."
         },
         "1": {
             "speaker": "1",
-            "text": "It's not just crunching data. It's starting to develop a more sophisticated understanding of how language actually works.",
-            "audio_path": "/mnt/conversationhubhot/yaoyaochang/speech/data/azure_data/mooncast_eval/prompt/en_spk2.wav"
+            "text": "It's not just crunching data. It's starting to develop a more sophisticated understanding of how language actually works."
         }
     },
     "transcript": [

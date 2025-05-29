@@ -2,7 +2,6 @@
     "prompts": {
         "0": {
             "speaker": "0",
-            "audio_path": "/data/jianwei/experiment/DataPropc/AudioAutoPrep/scripts/demo/data/demo/bill/prompt_1.wav",
             "speaker_ori": "1"
         }
     },

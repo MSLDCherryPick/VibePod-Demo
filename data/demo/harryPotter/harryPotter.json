@@ -3,13 +3,11 @@
         "0": {
             "speaker": "0",
             "text": "For six months when I was doing a play, I wore the same jacket every day because I realized that if it looked like I was coming out of the theater in the same jacket and same pair of jeans every night, the paparazzi looked like they were getting photos all from the same night. When you have an opportunity to like annoy the paparazzi or just like win a tiny petty victory over them.",
-            "audio_path": "/mnt/conversationhub/zhiliang/exp/podcast_eval/select_mosset/prompts/Daniel_1.wav",
             "speaker_ori": "1"
         },
         "1": {
             "speaker": "1",
             "text": "She gives as good as she gets. You Know. He bangs on the door, she bangs back. And she, you know, and she there's this defiance that, you know, you think I'm going to come and eat dinner with you and I'm your prisoner, I'm your cat. Absolutely not. And it's only when they... And I think that's the other beautiful thing about the love story, is that they form a friendship first. And that gap in the middle where there is this genuine sharing and this real friendship, the love builds out of that.",
-            "audio_path": "/mnt/conversationhub/zhiliang/exp/podcast_eval/select_mosset/prompts/emma_1.wav",
             "speaker_ori": "2"
         }
     },

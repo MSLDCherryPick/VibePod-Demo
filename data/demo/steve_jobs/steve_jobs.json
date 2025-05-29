@@ -3,13 +3,11 @@
         "0": {
             "speaker": "0",
             "text": "architecture is what the software is able to see of the hardware so if I build a chip and a system and a disk drive and some memory all of those things they're just dead hardware until you do something with them and to do something with them you have to have a way to talk to them and so all of these things expose a way to talk to them and that really is the architecture you can think of it as the language of the computer",
-            "audio_path": "/mnt/conversationhub/zhiliang/exp/podcast_eval/select_mosset/prompts/doug_burger.wav",
             "speaker_ori": "1"
         },
         "1": {
             "speaker": "1",
             "text": "every time a new episode is available. So visit us online at lcfamerica.org where you can find more information about the latest in lung cancer research, new treatments, and more. You can also join the conversation with LCFA on Facebook, Twitter, and Instagram.",
-            "audio_path": "/mnt/conversationhub/zhiliang/exp/podcast_eval/select_mosset/prompts/b98a3920-118e-59d0-32db-3146dff0d62c_new_nspk5_708sec_eval_prompt_spk0.wav",
             "speaker_ori": "2"
         }
     },

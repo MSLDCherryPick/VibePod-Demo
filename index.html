@@ -351,6 +351,24 @@
     </div>
 
     <script>
+        // Demo名称到显示标题的映射字典
+        const demoTitleMapping = {
+            'mooncast_0': 'GPT4',
+            'mooncast_1': 'Game theory',
+            'mooncast_2': 'Nobel Prize 2024',
+            'mooncast_3': 'Transformer',
+            'harryPotter': 'HarryPotter',
+            'steve_jobs': 'Steve Jobs',
+            'msft': 'Microsoft',
+            'speech_tokenizer': 'Speech Tokenizer',
+            'bill': 'Bill Gates'
+        };
+
+        // 获取demo的显示标题
+        function getDemoDisplayTitle(demoName) {
+            return demoTitleMapping[demoName] || demoName.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+        }
+
         // VibePod专用的demo列表（只显示VibePod）
         const vibepodDemos = [
             'msft',
@@ -373,7 +391,7 @@
             const demoDiv = document.createElement('div');
             demoDiv.className = 'demo-item';
             demoDiv.innerHTML = `
-                <div class="demo-title">${demoName.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}</div>
+                <div class="demo-title">${getDemoDisplayTitle(demoName)}</div>
                 <div class="demo-content">
                     <div class="left-panel">
                         <div class="transcript-section">
@@ -409,7 +427,7 @@
             const demoDiv = document.createElement('div');
             demoDiv.className = 'demo-item';
             demoDiv.innerHTML = `
-                <div class="demo-title">${demoName.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}</div>
+                <div class="demo-title">${getDemoDisplayTitle(demoName)}</div>
                 <div class="demo-content">
                     <div class="left-panel">
                         <div class="transcript-section">
@@ -497,7 +515,7 @@
             // 找到对应的demo标题并更新
             const demoItem = transcriptContent.closest('.demo-item');
             const demoTitleElement = demoItem.querySelector('.demo-title');
-            const originalTitle = demoName.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+            const originalTitle = getDemoDisplayTitle(demoName);
             demoTitleElement.textContent = `${originalTitle} (${speakerCount} Speaker${speakerCount > 1 ? 's' : ''})`;
             
             transcriptContent.innerHTML = '';

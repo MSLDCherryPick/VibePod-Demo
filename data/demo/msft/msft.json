@@ -3,19 +3,16 @@
         "0": {
             "speaker": "0",
             "text": "You know, this is the thing that throughout my childhood, I was so lucky, you know, because of my parents and some early friends, school I went to, I had these exposures to computers that were very rare. And so I had, you know, all these thousands of hours of programming experience and great feedback on, okay, how do you do it better from the very best adults?",
-            "audio_path": "/mnt/conversationhub/zhiliang/exp/podcast_eval/select_mosset/prompts/billg.wav",
             "speaker_ori": "1"
         },
         "1": {
             "speaker": "1",
             "text": "Yeah, I've definitely been using AI a ton for the projects that I'm doing outside of work even. So like a bunch of things that it gets used for at work that are hugely useful, but the outside of work ones I think are kind of fun. So like maybe the coolest thing that I've done is I have gotten really into making.",
-            "audio_path": "/mnt/conversationhub/zhiliang/exp/podcast_eval/select_mosset/prompts/kevin_scott.wav",
             "speaker_ori": "2"
         },
         "2": {
             "speaker": "2",
             "text": "It's kind of like it's an at-scale consumer property that has already got real escape velocity, right? I go to the app store and I see, you know, it's always like there in the top five. And I say, wow, like that's pretty unbelievable. So they were able to use that early advantage and parlay that into an app advantage. And so in consumer, that could happen in the enterprise again.",
-            "audio_path": "/mnt/conversationhub/zhiliang/exp/podcast_eval/select_mosset/prompts/satya.wav",
             "speaker_ori": "3"
         }
     },
