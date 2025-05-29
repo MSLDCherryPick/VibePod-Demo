@@ -1,0 +1,210 @@
+[
+    {
+        "SID": "mooncast_3",
+        "transcript": "/mnt/conversationhub/zhiliang/exp/podcast_eval/select_mosset/transcripts/simulated_sample/mooncast_3.json",
+        "transcribe": {
+            "0": {
+                "sampleID": 0,
+                "type": "vibepod-step5-cfg1.3",
+                "audio_path": "/mnt/conversationhub/zhiliang/exp/podcast_eval/qwen_1.5b_stream_podcast_v2_4096_text-1_ddpm-diff-5_acous-seman-tok3200x64_lr1e-4_bsz4m_8n_100k/transcript_small/step_100000/mooncast_3/cfg-1.3_ddpmstep-5.mp3"
+            },
+            "1": {
+                "sampleID": 1,
+                "type": "cosyvoice2",
+                "audio_path": "/mnt/conversationhub/zhiliang/exp/podcast_eval/cosyvoice2/transcript_small/05B/mooncast_3/cfg-1.0-ddpmstep-1.mp3"
+            },
+            "2": {
+                "sampleID": 2,
+                "type": "mooncast",
+                "audio_path": "/mnt/conversationhub/zhiliang/exp/podcast_eval/mooncast/transcript_small/1.5B/mooncast_3/cfg-1.0_ddpmstep-1_123.mp3"
+            },
+            "3": {
+                "sampleID": 3,
+                "type": "vibepod-step10-cfg1.25",
+                "audio_path": "/mnt/conversationhub/zhiliang/exp/podcast_eval/qwen_1.5b_stream_podcast_v2_4096_text-1_ddpm-diff-5_acous-seman-tok3200x64_lr1e-4_bsz4m_8n_100k/transcript_small/step_100000/mooncast_3/cfg-1.25_ddpmstep-10.mp3"
+            }
+        }
+    },
+    {
+        "SID": "steve_jobs",
+        "transcript": "/mnt/conversationhub/zhiliang/exp/podcast_eval/select_mosset/transcripts/simulated_sample/steve_jobs.json",
+        "transcribe": {
+            "0": {
+                "sampleID": 0,
+                "type": "cosyvoice2",
+                "audio_path": "/mnt/conversationhub/zhiliang/exp/podcast_eval/cosyvoice2/select_mosset_cut_long_prompt_v3/05B/steve_jobs/cfg-1.0-ddpmstep-1.mp3"
+            },
+            "1": {
+                "sampleID": 1,
+                "type": "vibepod-step5-cfg1.3",
+                "audio_path": "/mnt/conversationhub/zhiliang/exp/podcast_eval/qwen_1.5b_stream_podcast_v2_4096_text-1_ddpm-diff-5_acous-seman-tok3200x64_lr1e-4_bsz4m_8n_100k/transcript_small/step_100000/steve_jobs/cfg-1.3_ddpmstep-5.mp3"
+            },
+            "2": {
+                "sampleID": 2,
+                "type": "vibepod-step10-cfg1.25",
+                "audio_path": "/mnt/conversationhub/zhiliang/exp/podcast_eval/qwen_1.5b_stream_podcast_v2_4096_text-1_ddpm-diff-5_acous-seman-tok3200x64_lr1e-4_bsz4m_8n_100k/transcript_small/step_100000/steve_jobs/cfg-1.25_ddpmstep-10.mp3"
+            },
+            "3": {
+                "sampleID": 3,
+                "type": "mooncast",
+                "audio_path": "/mnt/conversationhub/zhiliang/exp/podcast_eval/mooncast/transcript_small/1.5B/steve_jobs/cfg-1.0_ddpmstep-1_123.mp3"
+            }
+        }
+    },
+    {
+        "SID": "msft",
+        "transcript": "/mnt/conversationhub/zhiliang/exp/podcast_eval/select_mosset/transcripts/simulated_sample/msft.json",
+        "transcribe": {
+            "0": {
+                "sampleID": 0,
+                "type": "mooncast",
+                "audio_path": "/mnt/conversationhub/zhiliang/exp/podcast_eval/mooncast/transcript_small/1.5B/msft/cfg-1.0_ddpmstep-1_123.mp3"
+            },
+            "1": {
+                "sampleID": 1,
+                "type": "vibepod-step10-cfg1.25",
+                "audio_path": "/mnt/conversationhub/zhiliang/exp/podcast_eval/qwen_1.5b_stream_podcast_v2_4096_text-1_ddpm-diff-5_acous-seman-tok3200x64_lr1e-4_bsz4m_8n_100k/transcript_small/step_100000/msft/cfg-1.25_ddpmstep-10.mp3"
+            },
+            "2": {
+                "sampleID": 2,
+                "type": "cosyvoice2",
+                "audio_path": "/mnt/conversationhub/zhiliang/exp/podcast_eval/cosyvoice2/select_mosset_cut_long_prompt_v3/05B/msft/cfg-1.0-ddpmstep-1.mp3"
+            },
+            "3": {
+                "sampleID": 3,
+                "type": "vibepod-step5-cfg1.3",
+                "audio_path": "/mnt/conversationhub/zhiliang/exp/podcast_eval/qwen_1.5b_stream_podcast_v2_4096_text-1_ddpm-diff-5_acous-seman-tok3200x64_lr1e-4_bsz4m_8n_100k/transcript_small/step_100000/msft/cfg-1.3_ddpmstep-5.mp3"
+            }
+        }
+    },
+    {
+        "SID": "mooncast_1",
+        "transcript": "/mnt/conversationhub/zhiliang/exp/podcast_eval/select_mosset/transcripts/simulated_sample/mooncast_1.json",
+        "transcribe": {
+            "0": {
+                "sampleID": 0,
+                "type": "cosyvoice2",
+                "audio_path": "/mnt/conversationhub/zhiliang/exp/podcast_eval/cosyvoice2/transcript_small/05B/mooncast_1/cfg-1.0-ddpmstep-1.mp3"
+            },
+            "1": {
+                "sampleID": 1,
+                "type": "vibepod-step10-cfg1.25",
+                "audio_path": "/mnt/conversationhub/zhiliang/exp/podcast_eval/qwen_1.5b_stream_podcast_v2_4096_text-1_ddpm-diff-5_acous-seman-tok3200x64_lr1e-4_bsz4m_8n_100k/transcript_small/step_100000/mooncast_1/cfg-1.25_ddpmstep-10.mp3"
+            },
+            "2": {
+                "sampleID": 2,
+                "type": "mooncast",
+                "audio_path": "/mnt/conversationhub/zhiliang/exp/podcast_eval/mooncast/transcript_small/1.5B/mooncast_1/cfg-1.0_ddpmstep-1_123.mp3"
+            },
+            "3": {
+                "sampleID": 3,
+                "type": "vibepod-step5-cfg1.3",
+                "audio_path": "/mnt/conversationhub/zhiliang/exp/podcast_eval/qwen_1.5b_stream_podcast_v2_4096_text-1_ddpm-diff-5_acous-seman-tok3200x64_lr1e-4_bsz4m_8n_100k/transcript_small/step_100000/mooncast_1/cfg-1.3_ddpmstep-5.mp3"
+            }
+        }
+    },
+    {
+        "SID": "mooncast_0",
+        "transcript": "/mnt/conversationhub/zhiliang/exp/podcast_eval/select_mosset/transcripts/simulated_sample/mooncast_0.json",
+        "transcribe": {
+            "0": {
+                "sampleID": 0,
+                "type": "vibepod-step10-cfg1.25",
+                "audio_path": "/mnt/conversationhub/zhiliang/exp/podcast_eval/qwen_1.5b_stream_podcast_v2_4096_text-1_ddpm-diff-5_acous-seman-tok3200x64_lr1e-4_bsz4m_8n_100k/transcript_small/step_100000/mooncast_0/cfg-1.25_ddpmstep-10.mp3"
+            },
+            "1": {
+                "sampleID": 1,
+                "type": "vibepod-step5-cfg1.3",
+                "audio_path": "/mnt/conversationhub/zhiliang/exp/podcast_eval/qwen_1.5b_stream_podcast_v2_4096_text-1_ddpm-diff-5_acous-seman-tok3200x64_lr1e-4_bsz4m_8n_100k/transcript_small/step_100000/mooncast_0/cfg-1.3_ddpmstep-5.mp3"
+            },
+            "2": {
+                "sampleID": 2,
+                "type": "mooncast",
+                "audio_path": "/mnt/conversationhub/zhiliang/exp/podcast_eval/mooncast/transcript_small/1.5B/mooncast_0/cfg-1.0_ddpmstep-1_123.mp3"
+            },
+            "3": {
+                "sampleID": 3,
+                "type": "cosyvoice2",
+                "audio_path": "/mnt/conversationhub/zhiliang/exp/podcast_eval/cosyvoice2/transcript_small/05B/mooncast_0/cfg-1.0-ddpmstep-1.mp3"
+            }
+        }
+    },
+    {
+        "SID": "mooncast_2",
+        "transcript": "/mnt/conversationhub/zhiliang/exp/podcast_eval/select_mosset/transcripts/simulated_sample/mooncast_2.json",
+        "transcribe": {
+            "0": {
+                "sampleID": 0,
+                "type": "vibepod-step5-cfg1.3",
+                "audio_path": "/mnt/conversationhub/zhiliang/exp/podcast_eval/qwen_1.5b_stream_podcast_v2_4096_text-1_ddpm-diff-5_acous-seman-tok3200x64_lr1e-4_bsz4m_8n_100k/transcript_small/step_100000/mooncast_2/cfg-1.3_ddpmstep-5.mp3"
+            },
+            "1": {
+                "sampleID": 1,
+                "type": "cosyvoice2",
+                "audio_path": "/mnt/conversationhub/zhiliang/exp/podcast_eval/cosyvoice2/transcript_small/05B/mooncast_2/cfg-1.0-ddpmstep-1.mp3"
+            },
+            "2": {
+                "sampleID": 2,
+                "type": "vibepod-step10-cfg1.25",
+                "audio_path": "/mnt/conversationhub/zhiliang/exp/podcast_eval/qwen_1.5b_stream_podcast_v2_4096_text-1_ddpm-diff-5_acous-seman-tok3200x64_lr1e-4_bsz4m_8n_100k/transcript_small/step_100000/mooncast_2/cfg-1.25_ddpmstep-10.mp3"
+            },
+            "3": {
+                "sampleID": 3,
+                "type": "mooncast",
+                "audio_path": "/mnt/conversationhub/zhiliang/exp/podcast_eval/mooncast/transcript_small/1.5B/mooncast_2/cfg-1.0_ddpmstep-1_123.mp3"
+            }
+        }
+    },
+    {
+        "SID": "speech_tokenizer",
+        "transcript": "/mnt/conversationhub/zhiliang/exp/podcast_eval/select_mosset/transcripts/simulated_sample/speech_tokenizer.json",
+        "transcribe": {
+            "0": {
+                "sampleID": 0,
+                "type": "mooncast",
+                "audio_path": "/mnt/conversationhub/zhiliang/exp/podcast_eval/mooncast/transcript_small/1.5B/speech_tokenizer/cfg-1.0_ddpmstep-1_123.mp3"
+            },
+            "1": {
+                "sampleID": 1,
+                "type": "vibepod-step5-cfg1.3",
+                "audio_path": "/mnt/conversationhub/zhiliang/exp/podcast_eval/qwen_1.5b_stream_podcast_v2_4096_text-1_ddpm-diff-5_acous-seman-tok3200x64_lr1e-4_bsz4m_8n_100k/transcript_small/step_100000/speech_tokenizer/cfg-1.3_ddpmstep-5.mp3"
+            },
+            "2": {
+                "sampleID": 2,
+                "type": "cosyvoice2",
+                "audio_path": "/mnt/conversationhub/zhiliang/exp/podcast_eval/cosyvoice2/select_mosset_cut_long_prompt_v3/05B/speech_tokenizer/cfg-1.0-ddpmstep-1.mp3"
+            },
+            "3": {
+                "sampleID": 3,
+                "type": "vibepod-step10-cfg1.25",
+                "audio_path": "/mnt/conversationhub/zhiliang/exp/podcast_eval/qwen_1.5b_stream_podcast_v2_4096_text-1_ddpm-diff-5_acous-seman-tok3200x64_lr1e-4_bsz4m_8n_100k/transcript_small/step_100000/speech_tokenizer/cfg-1.25_ddpmstep-10.mp3"
+            }
+        }
+    },
+    {
+        "SID": "harryPotter",
+        "transcript": "/mnt/conversationhub/zhiliang/exp/podcast_eval/select_mosset/transcripts/simulated_sample/harryPotter.json",
+        "transcribe": {
+            "0": {
+                "sampleID": 0,
+                "type": "mooncast",
+                "audio_path": "/mnt/conversationhub/zhiliang/exp/podcast_eval/mooncast/transcript_small/1.5B/harryPotter/cfg-1.0_ddpmstep-1_123.mp3"
+            },
+            "1": {
+                "sampleID": 1,
+                "type": "vibepod-step10-cfg1.25",
+                "audio_path": "/mnt/conversationhub/zhiliang/exp/podcast_eval/qwen_1.5b_stream_podcast_v2_4096_text-1_ddpm-diff-5_acous-seman-tok3200x64_lr1e-4_bsz4m_8n_100k/transcript_small/step_100000/harryPotter/cfg-1.25_ddpmstep-10.mp3"
+            },
+            "2": {
+                "sampleID": 2,
+                "type": "vibepod-step5-cfg1.3",
+                "audio_path": "/mnt/conversationhub/zhiliang/exp/podcast_eval/qwen_1.5b_stream_podcast_v2_4096_text-1_ddpm-diff-5_acous-seman-tok3200x64_lr1e-4_bsz4m_8n_100k/transcript_small/step_100000/harryPotter/cfg-1.3_ddpmstep-5.mp3"
+            },
+            "3": {
+                "sampleID": 3,
+                "type": "cosyvoice2",
+                "audio_path": "/mnt/conversationhub/zhiliang/exp/podcast_eval/cosyvoice2/select_mosset_cut_long_prompt_v3/05B/harryPotter/cfg-1.0-ddpmstep-1.mp3"
+            }
+        }
+    }
+]
